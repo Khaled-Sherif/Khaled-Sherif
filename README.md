@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaled-Sherif, A fresh MIS graduate.
-- 👀 I’m interested in tech fields that require critical thinking and innovative solutions.
-- 🌱 I’m currently learning Programming (Python, C, Java, SQL) , Data Analysis, Machine learning, Cloud computing, Statstics and, Mathematics.
+- 👀 I’m interested in tech fields.
+- 🌱 I’m currently learning Programming (Python, C, Java, SQL) , Data Analysis, Data science, Cloud computing, Statstics and, Mathematics.
 - 💞️ I’m looking to collaborate on Learning, helping others, work on Projects.
 
 <!---
