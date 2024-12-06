@@ -1,4 +1,4 @@
--👋 Hi, I’m @Khaled-Sherif, a full-stack web debeloper.
+-👋 Hi, I’m @Khaled-Sherif, a python developer and data analyst.
 -👀 Passionate about technology, web development, and data analysis.
 -🌱 Currently advancing my skills in Python, Django, SQL, cloud computing, and data science, with a focus on building impactful projects.
 -💞️ Open to collaborating on web applications, data-driven projects, and helping others in their learning journey.
