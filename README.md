@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Khaled-Sherif, A fresh MIS graduate.
-- 👀 I’m interested in tech fields.
-- 🌱 I’m currently learning Programming (Python, C, Java, SQL) , Data Analysis, Data science, Cloud computing, Statstics and, Mathematics.
-- 💞️ I’m looking to collaborate on Learning, helping others, work on Projects.
+👋 Hi, I’m @Khaled-Sherif, a full-stack web debeloper.
+👀 Passionate about technology, web development, and data analysis.
+🌱 Currently advancing my skills in Python, Django, SQL, cloud computing, and data science, with a focus on building impactful projects.
+💞️ Open to collaborating on web applications, data-driven projects, and helping others in their learning journey.
+🚀 Aspiring to become an exceptional full-stack Django developer and secure impactful remote opportunities.
+
 
 <!---
 Khaled-Sherif/Khaled-Sherif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
